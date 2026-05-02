@@ -6,9 +6,9 @@ Esse arquivo seguirá a partir desse ponto a arquitetura de categorias disposta 
 - Objetivos principais
 - Projeto
   - Formato e dimensões
+  - Rigidez
   - Fechamento
   - Alça e transporte
-  - Rigidez
   - Camadas
     - Protetiva (interna)
     - Insulante térmico
@@ -42,17 +42,8 @@ Com isso, considerando minhas aplicações, o projeto adotará:
 * Dimensões da base iguais a ______
 * Altura igual a ____ + ____
 
-### Fechamento
-O fecho da bolsa pode impactar aspectos da alça e conexão de módulos adicionais ou até mesmo compressibilidade e retenção térmica. Possíveis estilos de fechos incluem:
 
-**Zíper**
-Detalhes: Seja ele colocado como uma linha reta ou curvada, o formato de topo da bolsa a tornaria inconvencional, dificultando armazenamento, podendo também torná-la menos compressível, além de ter alinhamento inicial complexo em alguns casos. Porém ele é durável e resistente, com longa vida útil, além de forte.
 
-**Ímãs**
-O uso de ímãs diretamente torna o fecho granulado ou fragmentado, fazendo com que seu uso seja instável e inconveniente. Isso pode ser solucionado com painéis metálicos, que definiriam as dobras a serem seguidas pelo fecho, mas ainda conduziriam o campo magnético gerado pelos ímãs associados.
-No entanto, o sistema, mesmo que de usabilidade extremamente simples, possui força fraca - mesmo que durável. Isso pode, talvez, ser solucionado por associação com outros tipos de fecho, se necessário.
-
-### Alça e transporte
 ### Rigidez
 A rigidez ou flexibilidade da bolsa podem cada uma trazerem vantagens ou desvantagens às metas do projeto:
 
@@ -69,10 +60,26 @@ A rigidez ou flexibilidade da bolsa podem cada uma trazerem vantagens ou desvant
 * Melhor isolamento térmico;
 * Pode dificultar armazenamento;
 
-Já que seriam interessantes algumas características, enquanto outras apenas em locais seletos, seria possível utilizar uma mistura de ambos, reduzindo ao máximo suas desvantagens enquanto se maximizam suas vantagens.
+Já que seriam interessantes algumas características, enquanto outras apenas em locais seletos, seria possível utilizar uma mistura de ambos, reduzindo ao máximo o desperdício das vantagens de cada. Deste modo, uma opção seria utilizar uma carcaça rígida em uma seção de baixo da bolsa, enquanto o resto (que inclui a abertura e fechadura) seria flexível. A altura do corte entre elas seria definido de modo que durante uso cotidiano o conteúdo usual seja mantido completamente protegido. Isso, contanto, por questões de padronização e usabilidade geral, seria calculado com base em valores médios dos itens a serem transportados (ou máximo).
 
-Deste modo, uma opção seria utilizar uma carcaça rígida em uma seção de baixo da bolsa, enquanto o resto (que inclui a abertura e fechadura) seria flexível. A altura do corte entre elas seria definido de modo que durante uso cotidiano o conteúdo usual seja mantido completamente protegido. Isso, contanto, por questões de padronização e usabilidade geral, seria calculado com base em valores médios dos itens a serem transportados (ou máximo).
 
+
+### Fechamento
+O fecho da bolsa pode impactar aspectos da alça e conexão de módulos adicionais ou até mesmo compressibilidade e retenção térmica. Possíveis estilos de fechos incluem:
+
+**Zíper**: Seja ele colocado como uma linha reta ou curvada, o formato de topo da bolsa a tornaria inconvencional, dificultando armazenamento, podendo também torná-la menos compressível, além de ter alinhamento inicial complexo em alguns casos. Porém ele é durável e resistente, com longa vida útil, além de forte.
+
+**Ímãs**: O uso de ímãs diretamente torna o fecho granulado ou fragmentado, fazendo com que seu uso seja instável e inconveniente. Isso pode ser solucionado com painéis metálicos, que definiriam as dobras a serem seguidas pelo fecho, mas ainda conduziriam o campo magnético gerado pelos ímãs associados.
+No entanto, o sistema, mesmo que de usabilidade extremamente simples, possui força fraca - mesmo que durável. Isso pode, talvez, ser solucionado por associação com outros tipos de fecho, se necessário.
+
+**Velcro**: Por ser flexível, não compromete de forma significativa a amplitude de fechamento da bolsa, no entanto isso também abre espaço para modos indesejados. Isso, assim como no caso dos imãs, poderia ser remediado pelo uso de paineis, que guiariam o formato de fechamento.
+Entretanto, mesmo que seja relativamente forte e flexivel, além de ser desconfortável ao toque, sua qualidade tende a diminuir conforme a progressão de sua vida útil, que varia bastante aa depender de seu preço inicial, podendo requisitar substituições constantes.
+
+**Botões de pressão**: Suportam uma força significativa, além de serem duráveis e confortáveis em uso, mas são necessários em maiores quantidades para oferecerem pressão ao longo de toda a abertura, ou usar, assim como opções anteriores, uma placa rígida para guiar e dissolver a pressão para o fechamento correto.
+
+
+
+### Alça e transporte
 ### Camadas
 #### Protetiva (interna)
 #### Insulante térmico
