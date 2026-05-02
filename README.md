@@ -7,7 +7,7 @@ Esse arquivo seguirá a partir desse ponto a arquitetura de categorias disposta 
 - Projeto
   - Formato e dimensões
   - Rigidez
-  - Fechamento
+  - Fechamento e boca
   - Alça e transporte
   - Camadas
     - Protetiva (interna)
@@ -64,7 +64,7 @@ Já que seriam interessantes algumas características, enquanto outras apenas em
 
 
 
-### Fechamento
+### Fechamento e boca
 O fecho da bolsa pode impactar aspectos da alça e conexão de módulos adicionais ou até mesmo compressibilidade e retenção térmica. Possíveis estilos de fechos incluem:
 
 **Zíper**: Seja ele colocado como uma linha reta ou curvada, o formato de topo da bolsa a tornaria inconvencional, dificultando armazenamento, podendo também torná-la menos compressível, além de ter alinhamento inicial complexo em alguns casos. Porém ele é durável e resistente, com longa vida útil, além de forte.
@@ -77,9 +77,11 @@ Entretanto, mesmo que seja relativamente forte e flexivel, além de ser desconfo
 
 **Botões de pressão**: Suportam uma força significativa, além de serem duráveis e confortáveis em uso, mas são necessários em maiores quantidades para oferecerem pressão ao longo de toda a abertura, ou usar, assim como opções anteriores, uma placa rígida para guiar e dissolver a pressão para o fechamento correto.
 
-
+Seria possível, também, citar possíveis formatos de boca para cada uma das formas de fechamento.
 
 ### Alça e transporte
+Seria possível ter como exemplos múltiplos tipos diferentes 
+
 ### Camadas
 #### Protetiva (interna)
 #### Insulante térmico
